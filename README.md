@@ -2,7 +2,8 @@
 
 This is a really simple notepad application that is as easy to use as a real notepad. Just lay out your notes in the notepad, which automatically grows and shrinks to fit your needs.
 
-# Techonology & Component: Android Framework, Kotlin, Live Data, Android Room, MVVM, Navigation, Fragment
+### Techonology & Component: 
+**Android Framework, Kotlin, Live Data, Android Room, MVVM, Navigation, Fragment**
 
 Features:
 1. Add Delete Update notes in the app
