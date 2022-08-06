@@ -11,10 +11,10 @@ Features:
 3. Filter notes according to the priority
 4. Search notes with any text from Title, Subtitle or the text that macthes the best, showd all
 
-Screenshorts:
+### Screenshorts:
 
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/15082614/183227866-cf1901a4-f209-4410-8039-fee4973a9076.jpeg" width="250"/>
+<p>
+  <img src="https://user-images.githubusercontent.com/15082614/183228825-58abcdf2-5561-4045-8efd-5cfb1e8b05a2.jpeg" width="250"/>
   <img src="https://user-images.githubusercontent.com/15082614/183227913-95541652-8f7a-4247-9265-cec8c2e14067.jpeg" width="250" /> 
   <img src="https://user-images.githubusercontent.com/15082614/183227943-bcc4b49e-79ba-4541-b7e3-75078b087cb8.jpeg" width="250" />
   <img src="https://user-images.githubusercontent.com/15082614/183227942-cdb3c225-5950-4f41-a160-87b5911ddc09.jpeg" width="250" />
