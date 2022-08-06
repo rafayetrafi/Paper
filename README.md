@@ -5,7 +5,7 @@ This is a really simple notepad application that is as easy to use as a real not
 ### Techonology & Component: 
 **Android Framework, Kotlin, Live Data, Android Room, MVVM, Navigation, Fragment**
 
-Features:
+### Features:
 1. Add Delete Update notes in the app
 2. Add notes according to the priority ex. high, medium, low
 3. Filter notes according to the priority
