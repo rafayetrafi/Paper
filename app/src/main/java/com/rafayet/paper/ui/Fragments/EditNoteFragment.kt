@@ -104,7 +104,7 @@ class EditNoteFragment : Fragment() {
             priority = priority
         )
         viewModel.updateNotes(notesData)
-        Toast.makeText(requireActivity(), "Notes Updated Successful", Toast.LENGTH_SHORT).show()
+        Toast.makeText(requireActivity(), "Paper Updated Successful", Toast.LENGTH_SHORT).show()
 
         Navigation.findNavController(it!!).navigate(R.id.action_editNoteFragment_to_homeFragment)
     }

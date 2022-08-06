@@ -18,7 +18,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
-            android:background="@drawable/edit_text_shape"
             android:hint="Title"
             android:maxLines="1"
             android:padding="15dp"
@@ -29,7 +28,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
-            android:background="@drawable/edit_text_shape"
             android:hint="Subtitle"
             android:maxLines="1"
             android:padding="15dp"
@@ -73,7 +71,7 @@
             android:layout_marginTop="10dp"
             android:background="@drawable/edit_text_shape"
             android:gravity="start"
-            android:hint="Pages . . ."
+            android:hint="Write Here . . ."
             android:padding="10dp"
             android:textColorHint="@color/black" />
 

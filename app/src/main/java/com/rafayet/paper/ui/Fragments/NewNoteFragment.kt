@@ -73,7 +73,7 @@ class NewNoteFragment : Fragment() {
             priority = priority
         )
         viewModel.addNotes(notesData)
-        Toast.makeText(requireActivity(), "Notes Created Successfully", Toast.LENGTH_SHORT).show()
+        Toast.makeText(requireActivity(), "Paper Created Successfully", Toast.LENGTH_SHORT).show()
 
         Navigation.findNavController(it!!).navigate(R.id.action_newNoteFragment_to_homeFragment)
 

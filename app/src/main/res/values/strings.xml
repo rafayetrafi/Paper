@@ -4,7 +4,7 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="home_fragment">Home Fragment</string>
     <string name="homepage">HomePage</string>
-    <string name="warning_text_delete">Are you Sure want to delete \n This Notes?</string>
+    <string name="warning_text_delete">Are you Sure want to delete \n This Paper?</string>
     <string name="no">No</string>
     <string name="yes">Yes</string>
 </resources>
